@@ -5,6 +5,8 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 
 # Project Background
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+<img width="1306" height="723" alt="image" src="https://github.com/user-attachments/assets/27fd4327-8153-4dd1-bbe5-601b205aeb2a" />
+
 
 Insights and recommendations are provided on the following key areas:
 
